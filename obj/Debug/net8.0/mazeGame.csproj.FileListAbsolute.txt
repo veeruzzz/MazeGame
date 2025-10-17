@@ -1,0 +1,28 @@
+C:\Users\iande\source\repos\mazeGame\bin\Debug\net8.0\mazeGame.exe
+C:\Users\iande\source\repos\mazeGame\bin\Debug\net8.0\mazeGame.deps.json
+C:\Users\iande\source\repos\mazeGame\bin\Debug\net8.0\mazeGame.runtimeconfig.json
+C:\Users\iande\source\repos\mazeGame\bin\Debug\net8.0\mazeGame.dll
+C:\Users\iande\source\repos\mazeGame\bin\Debug\net8.0\mazeGame.pdb
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\mazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\mazeGame.AssemblyInfoInputs.cache
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\mazeGame.AssemblyInfo.cs
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\mazeGame.csproj.CoreCompileInputs.cache
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\mazeGame.dll
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\refint\mazeGame.dll
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\mazeGame.pdb
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\mazeGame.genruntimeconfig.cache
+C:\Users\iande\source\repos\mazeGame\obj\Debug\net8.0\ref\mazeGame.dll
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\bin\Debug\net8.0\mazeGame.exe
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\bin\Debug\net8.0\mazeGame.deps.json
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\bin\Debug\net8.0\mazeGame.runtimeconfig.json
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\bin\Debug\net8.0\mazeGame.dll
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\bin\Debug\net8.0\mazeGame.pdb
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\mazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\mazeGame.AssemblyInfoInputs.cache
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\mazeGame.AssemblyInfo.cs
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\mazeGame.csproj.CoreCompileInputs.cache
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\mazeGame.dll
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\refint\mazeGame.dll
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\mazeGame.pdb
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\mazeGame.genruntimeconfig.cache
+C:\Users\iande\Downloads\mazeGame (2)\mazeGame\obj\Debug\net8.0\ref\mazeGame.dll
